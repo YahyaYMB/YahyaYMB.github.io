@@ -21,7 +21,10 @@ hsfaocfjoianjfiodnfjaoijcfa
 ## Screen & Power
 asdfkafdjaslkfalkjsflkaj
 
-### Possible Options
+### Portable
+asjf;ajsfjalkjdfja
+
+### Non-Portable
 asjf;ajsfjalkjdfja
 
 ## Console Housing
