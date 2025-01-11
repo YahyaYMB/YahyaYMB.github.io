@@ -1,5 +1,7 @@
-# Raspberry Pi Game Console
-Welcome! this is the documentation of my Grade 11 Computer Engineering Final Project, a handheld game console
+---
+title: Handheld Game Console
+description: Final project for TEJ3MR course
+---
 
 1. TOC
 {:toc}
