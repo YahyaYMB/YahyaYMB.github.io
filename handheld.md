@@ -1,7 +1,4 @@
 # Raspberry Pi Game Console
-Final Project for my Grade 11 Computer Engineering Class
-
-
 Welcome! this is the documentation of my Grade 11 Computer Engineering Final Project, a handheld game console
 
 1.TOC
