@@ -1,5 +1,7 @@
-# Yahya Bilal
-Welcome to the main page of my website portfolio
+---
+title: Yahya Bilal
+description: Aspiring Engineering Student
+---
 
 1. TOC
 {:toc}
