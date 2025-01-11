@@ -11,5 +11,4 @@ I am an aspiring engineering student, currently in high school, pursuing the fie
 
 ### Projects
 #### [Handheld Game Console](./handheld.html)
-
 #### [Text Based RPG](./textGame.html)
