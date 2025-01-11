@@ -1,7 +1,6 @@
----
-title: Raspberry Pi Game Console
-description: Final Project for my Grade 11 Computer Engineering Class
----
+# Raspberry Pi Game Console
+Final Project for my Grade 11 Computer Engineering Class
+
 
 Welcome! this is the documentation of my Grade 11 Computer Engineering Final Project, a handheld game console
 
