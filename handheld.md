@@ -5,8 +5,8 @@ description: Final Project for my Grade 11 Computer Engineering Class
 
 Welcome! this is the documentation of my Grade 11 Computer Engineering Final Project, a handheld game console
 
-1. TOC
-2. {:toc}
+1.TOC
+{:toc}
 
 ## The Idea
 ahsdfhaksjdfjiuashfacbalkfb
