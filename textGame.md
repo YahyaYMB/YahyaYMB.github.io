@@ -1,2 +1,4 @@
-# Text Based RPG in Java
-This is currently a work in progress
+---
+title: Text Based RPG
+description: Work in Progress
+---
