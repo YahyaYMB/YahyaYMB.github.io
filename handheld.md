@@ -27,13 +27,13 @@ One of the core aspects of gaming is being able to control your movement in an e
 Esentially, when you click on a button from the gamepad, it sends a signal to the Arduino which then gives information to the Raspberry Pi to inplement whatever is clicked in real life.
 
 ## Screen & Power
-asdfkafdjaslkfalkjsflkaj
+Another core aspect of gaming is being able to play your games comfortably. This is why I decided to make two configurations for the handheld; Portable and Non-Portable.
 
 ### Portable
-asjf;ajsfjalkjdfja
+In the portable configuration, the console relies on a built-in screen to display the game. To allow for it to be completly portable, the handheld will also have an internal battey which can be charged and allow the user to play anywhere without having to plug the console into an outlet.
 
 ### Non-Portable
-asjf;ajsfjalkjdfja
+Unlike the portable configuration, the non-portable setup will not have a built-in display or battery. This is because this configuration is intended to be plugged into a tv or monitor, mostly to play at home. This configuration will require constant power from an outlet. Using the Raspberry Pi's built-in bluetooth, external gamepads can also be used to play games with multiple people, in addition to the built-in controlsof the handheld. 
 
 ## Console Housing
 jasdhfalkjhflkjadh
