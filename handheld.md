@@ -7,7 +7,7 @@ description: Final project for TEJ3MR course
 {:toc}
 
 ## The Idea
-![Console Picture](./Assets/handhelds.jpg)
+![Console Picture](./Assets/handhelds1.jpg)
 
 The main idea of this project is to create an unique handheld device using a Raspberry Pi; which is capable of running all sorts of different games and software. The versatility and power that the Raspberry Pi brings made it the ideal board to base the project off of.
 
