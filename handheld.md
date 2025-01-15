@@ -40,7 +40,7 @@ Unlike the portable configuration, the non-portable setup will not have a built-
 Additionally, this configuration will rely on the Raspberry Pi's in-built bluetooth to allow for pairing with external gamepads and allow multiple people to play together. Alternatively, the option to use the built-in controls will always be available.
 
 ## Console Housing
-kjajsdjkfhasfjkainwoecoiuwiuadhfnuiabcidub
+For our design, we initally wanted to design a acryllic case to showcase the internal components to the user to give it a futuristic look. However, we realized that we could not obtain acryllic so we improvised and just made brackets to ensure functionality. These brackets will also allow us to further develop our console in the future to possibly add acryllics.
 
 ## Final Assembly
 kashdfkjahskdjfhakjshdf
