@@ -12,6 +12,7 @@ asdfkjhakjsdhfkahsdkljfhas
 Port Credit Secondary School _(September 2022 - present)_
 
 ## Extracurriculars
+- Robotics (Vex team 4659)
 
 ## Awards
 kjahfkjahsdfaskjhd
