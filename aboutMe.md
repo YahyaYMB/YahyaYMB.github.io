@@ -12,7 +12,10 @@ asdfkjhakjsdhfkahsdkljfhas
 Port Credit Secondary School _(September 2022 - present)_
 
 ## Extracurriculars
-- Robotics (Vex team 4659)
+- First Lego League Mentoring
+- Vex Robotics
+- Port Credit Transportation Club
+- Port Credit Coding Club
 
 ## Awards
 kjahfkjahsdfaskjhd
