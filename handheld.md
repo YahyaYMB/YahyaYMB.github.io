@@ -8,7 +8,7 @@ description: Final project for TEJ3MR course
 
 ## The Idea
 ![Console Picture](./Assets/handhelds1.jpg)
-[Link to Photo]([url](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gamesradar.com%2Fbest-gaming-handheld%2F&psig=AOvVaw3R82wL7CNw2-OoQJp5-nC5&ust=1737132435849000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDytuDY-ooDFQAAAAAdAAAAABAE))
+[Link to Photo]([url]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gamesradar.com%2Fbest-gaming-handheld%2F&psig=AOvVaw3R82wL7CNw2-OoQJp5-nC5&ust=1737132435849000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDytuDY-ooDFQAAAAAdAAAAABAE)
 
 The main idea of this project is to create an unique handheld device using a Raspberry Pi; which is capable of running all sorts of different games and software. The versatility and power that the Raspberry Pi brings made it the ideal board to base the project off of.
 
@@ -16,7 +16,7 @@ Additionally, I wanted to make something that used all of the skills that were b
 
 ## Materials
 ![Raspberry Pi Image](./Assets/pi4b.jpg)
-[Link to Photo]([url](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jeffgeerling.com%2Fblog%2F2021%2Fraspberry-pi-4-model-bs-arriving-newer-c0-stepping&psig=AOvVaw03hNVH4zK-b_7IGjADrliN&ust=1737132469007000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiBwPHY-ooDFQAAAAAdAAAAABAE))
+[Link to Photo]([url]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jeffgeerling.com%2Fblog%2F2021%2Fraspberry-pi-4-model-bs-arriving-newer-c0-stepping&psig=AOvVaw03hNVH4zK-b_7IGjADrliN&ust=1737132469007000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiBwPHY-ooDFQAAAAAdAAAAABAE)
 
 - Raspbery Pi 4B w/ SD card & Heatsink
 - Arduino Pro Micro
