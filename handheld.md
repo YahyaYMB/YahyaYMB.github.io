@@ -8,6 +8,7 @@ description: Final project for TEJ3MR course
 
 ## The Idea
 ![Console Picture](./Assets/handhelds1.jpg)
+[Link to Photo]([url](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gamesradar.com%2Fbest-gaming-handheld%2F&psig=AOvVaw3R82wL7CNw2-OoQJp5-nC5&ust=1737132435849000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDytuDY-ooDFQAAAAAdAAAAABAE))
 
 The main idea of this project is to create an unique handheld device using a Raspberry Pi; which is capable of running all sorts of different games and software. The versatility and power that the Raspberry Pi brings made it the ideal board to base the project off of.
 
@@ -15,6 +16,8 @@ Additionally, I wanted to make something that used all of the skills that were b
 
 ## Materials
 ![Raspberry Pi Image](./Assets/pi4b.jpg)
+[Link to Photo]([url](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jeffgeerling.com%2Fblog%2F2021%2Fraspberry-pi-4-model-bs-arriving-newer-c0-stepping&psig=AOvVaw03hNVH4zK-b_7IGjADrliN&ust=1737132469007000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiBwPHY-ooDFQAAAAAdAAAAABAE))
+
 - Raspbery Pi 4B w/ SD card & Heatsink
 - Arduino Pro Micro
 - Screen (DSI compatible)
@@ -43,10 +46,10 @@ Unlike the portable configuration, the non-portable setup will not have a built-
 Additionally, this configuration will rely on the Raspberry Pi's in-built bluetooth to allow for pairing with external gamepads and allow multiple people to play together. Alternatively, the option to use the built-in controls will always be available.
 
 ## Console Housing
-For our design, we initally wanted to design a acryllic case to showcase the internal components to the user to give it a futuristic look. However, we realized that we could not obtain acryllic so we improvised and just made brackets to ensure functionality. These brackets will also allow us to further develop our console in the future to possibly add acryllics.
+For our design, we initally wanted to make an acryllic case to showcase the internal components to the user to give an "open-source" look. However, we realized that we could not obtain acryllic, consequelty, we improvised and made brackets which would hold the components together and ensure functionality. These brackets will also allow us to maintain modularity in our handheld, while also allowing us to add proper acryllic covers late in the future.
 
 ## Final Assembly
-kashdfkjahskdjfhakjshdf
+adhfkahsfhak;dn
 
 ## Conclusion
 kjhasdkjfjkashfkjhasjkdf
