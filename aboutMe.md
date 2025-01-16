@@ -6,24 +6,20 @@ description: Some information about who I am and my interests
 {:toc}
 
 ## Who is Yahya Bilal?
-asdfkjhakjsdhfkahsdkljfhas
+Something
 
 ## Education
 Port Credit Secondary School _(September 2022 - present)_
 
 ## Extracurriculars
 - First Lego League Mentoring
-- Vex Robotics
-- Port Credit Transportation Club
-- Port Credit Coding Club
+- School Robotics Team
+- Coding/Hack Club
 
 ## Awards
-kjahfkjahsdfaskjhd
-
-## Certifications and Qualifications
-adskjfkjsahfjkasjkdf
+- Something
 
 ## Future Goals
-kldfhasfas
+Something
 
 [Previous Page](./)
