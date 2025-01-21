@@ -79,4 +79,3 @@ All in all, creating a handheld console came with its challenges and has ultimat
 </p>
 
 [Previous Page](./)
-[Previous Page](./)
