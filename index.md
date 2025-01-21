@@ -33,8 +33,10 @@ Since I was young, I loved playing video games. This passion developed into a ho
 ## Projects
 ### Handheld Game Console
 In the TEJ3MR course, I planned out and created a handheld gaming console for my final project in the course. This project demonstrated my ability to design and construct an electronic device.
+
 [More Info](./handheld.html)
 
 ### Text Based RPG
 As part of the ICS3UR course, I worked towards making a simple text based RPG game based in the Star Wars universe. This project demonstrated my ability to code a basic algorithm ersponsible for controlling the various enemies the user would enocunter. Furthermore, I also incorporated a basic exploration aspect and a system of scoring which would store a past high score.
+
 [More Info](./textGame.html)
