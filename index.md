@@ -10,11 +10,31 @@ description: Aspiring Engineering Student
     <a href="https://mail.google.com/mail/u/0/?fs=1&to=902525@pdsb.net&tf=cm">Contact Yahya Bilal - 902525@pdsb.net</a>
 </p>
 
-### About Me
+## About Me
+
+### Who is Yahya Bilal?
 I am an aspiring engineering student, currently in high school, pursuing the field of Electical Engineering.
 
-[More Info](./aboutMe.html)
+Since I was young, I loved playing video games. This passion developed into a hobby of learning about computers. Overtime, my knowledge expanded and I realized a career in engineering is what I wanted. Solving problems and critical thinking were valuable skills I learned when I was younger that have transitioned into giving me the experience needed to make steps to become an engineer.
 
-### Projects
-#### [Handheld Game Console](./handheld.html)
-#### [Text Based RPG](./textGame.html)
+### Education
+- Port Credit Secondary School (September 2022 - Present)
+
+### Extracurriculars and Related Activities
+- Community First Lego League Team (January 2018 - June 2021)
+- Steam Ahead First Lego League Mentor (June 2023 - January 2024)
+- PCSS Vex Robotics Team (September 2024 - Present)
+- PCSS Transportation CLub (September 2024 - Present)
+- PCSS Cricket Club Founder and Executive (October 2024 - Present)
+
+### Awards and Qualifications
+- 
+
+## Projects
+### Handheld Game Console
+In the TEJ3MR course, I planned out and created a handheld gaming console for my final project in the course. This project demonstrated my ability to design and construct an electronic device.
+[More Info](./handheld.html)
+
+### Text Based RPG
+As part of the ICS3UR course, I worked towards making a simple text based RPG game based in the Star Wars universe. This project demonstrated my ability to code a basic algorithm ersponsible for controlling the various enemies the user would enocunter. Furthermore, I also incorporated a basic exploration aspect and a system of scoring which would store a past high score.
+[More Info](./textGame.html)
