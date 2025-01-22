@@ -22,13 +22,16 @@ Since I was young, I loved playing video games. This passion developed into a ho
 
 ### Extracurriculars and Related Activities
 - Community First Lego League Team (January 2018 - June 2021)
+- Mississauga Dolphins Cricket Team (June 2023 - Present)
 - Steam Ahead First Lego League Mentor (June 2023 - January 2024)
 - PCSS Vex Robotics Team (September 2024 - Present)
 - PCSS Transportation CLub (September 2024 - Present)
 - PCSS Cricket Club Founder and Executive (October 2024 - Present)
 
 ### Awards and Qualifications
-- 
+- Mississauga Dolphins U16-U18 Most Valuable Player
+- Basic First Aid
+- ICC Level 1 Cricket Coach (pending)
 
 ## Projects
 ### Handheld Game Console
