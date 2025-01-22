@@ -30,7 +30,7 @@ One of the core aspects of gaming is being able to control your movement in an e
 
 When creating the controllers, I soldered on the buttons and Arduino onto a perfboard which allows me to make the connections between the controller and the parts.
 
-[Gamepad Code for Arduino Pro Micro](./Assets/Code/gamepad_code.ino)
+[Gamepad Code for Arduino Pro Micro](https://github.com/YahyaYMB/YahyaYMB.github.io/blob/main/Assets/Code/gamepad_code.ino)
 
 <p align="center">
     <img src="./Assets/controllers.jpeg" width="825" height="412">
