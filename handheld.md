@@ -64,7 +64,7 @@ In the construction of the casing / brackets, I first needed to design the struc
 ![Onshape](./Assets/Onshape.png)
 
 ## Final Assembly
-After finishing the 3D printing, I used the brackets made to assemble the screen, battery, Raspberry Pi and controllers together with screws. Once this was done, the connections between the parts needed to be made. So, we soldered all the parts together and wired everything that needed to be wired. To complete the project, the code of the controllers and Raspberry Pi needed to be completed; which was finished swiftly. Finally, all connections were complete and I now have a fully functional handheld Raspberry Pi console!
+After finishing the 3D printing, I used the brackets made to assemble the screen, battery, Raspberry Pi and controllers together with screws. Once this was done, the connections between the parts needed to be made. So, we soldered all the parts together and wired everything that needed to be wired. To complete the project, the code of the controllers and software for the Raspberry Pi needed to be completed; which was finished swiftly. Finally, all connections were complete and I now have a fully functional handheld Raspberry Pi console!
 
 <p align="center">
     <img src="./Assets/assemblyparts.jpeg" width="825" height="515">
