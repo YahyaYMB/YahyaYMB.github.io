@@ -17,22 +17,6 @@ I am an aspiring engineering student, currently in high school, pursuing the fie
 
 [More Info](./AboutMe.html)
 
-### Education
-- Port Credit Secondary School (September 2022 - Present)
-
-### Extracurriculars and Related Activities
-- Community First Lego League Team (January 2018 - June 2021)
-- Mississauga Dolphins Cricket Team (June 2023 - Present)
-- Steam Ahead First Lego League Mentor (June 2023 - January 2024)
-- PCSS Vex Robotics Team (September 2024 - Present)
-- PCSS Transportation CLub (September 2024 - Present)
-- PCSS Cricket Club Founder and Executive (October 2024 - Present)
-
-### Awards and Qualifications
-- Mississauga Dolphins U16-U18 Most Valuable Player
-- Basic First Aid and CPR
-- ICC Level 1 Cricket Coach (pending)
-
 ## Projects
 ### Handheld Game Console
 In the TEJ3MR course, I planned out and created a handheld gaming console for my final project in the course. This project demonstrated my ability to design and construct a fully functional electronic device.
