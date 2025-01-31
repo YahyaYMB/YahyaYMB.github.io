@@ -8,7 +8,7 @@ description: Who is Yahya Bilal?
 
 ## Backgroud
 <p align="center">
-    <img src="./Assets/myPhoto.JPG" width="150" height="250">
+    <img src="./Assets/myPhoto.JPG" width="175" height="250">
 </p>
 
 uafkjhaskjdfhjkahdfkjh
