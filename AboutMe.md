@@ -7,7 +7,9 @@ description: Who is Yahya Bilal?
 {:toc}
 
 ## Backgroud
-![ME](./Assets/myPhoto.JPG)
+<p align="center">
+    <img src="./Assets/myPhoto.JPG" width="150" height="50">
+</p>
 
 uafkjhaskjdfhjkahdfkjh
 
