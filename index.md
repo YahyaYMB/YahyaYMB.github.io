@@ -7,7 +7,7 @@ description: Aspiring Engineering Student
     <img src="./Assets/gmail.png" width="100" height="75">
 </p>
 <p align="center">
-    <a href="https://mail.google.com/mail/u/0/?fs=1&to=902525@pdsb.net&tf=cm">Contact Yahya Bilal - 902525@pdsb.net</a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&to=yahya.m.bilal@gmail.com&tf=cm">Contact Yahya Bilal - yahya.m.bilal@gmail.com</a>
 </p>
 
 ## About Me
