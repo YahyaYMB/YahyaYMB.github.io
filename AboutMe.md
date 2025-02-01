@@ -8,7 +8,7 @@ description: Who is Yahya Bilal?
 
 ## Backgroud
 <p align="left">
-    <img src="./Assets/myPhoto.JPG" width="210" height="300">
+    <img src="./Assets/myPhoto.JPG" width="280" height="400">
 </p>
 
 uafkjhaskjdfhjkahdfkjh
@@ -21,7 +21,7 @@ uafkjhaskjdfhjkahdfkjh
 - Mississauga Dolphins Cricket Team (June 2023 - Present)
 - Steam Ahead First Lego League Mentor (June 2023 - January 2024)
 - PCSS Vex Robotics Team (September 2024 - Present)
-- PCSS Transportation CLub (September 2024 - Present)
+- PCSS Transportation Club (September 2024 - Present)
 - PCSS Cricket Club Founder and Executive (October 2024 - Present)
 
 ## Awards and Qualifications
