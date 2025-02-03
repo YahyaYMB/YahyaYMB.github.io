@@ -18,7 +18,7 @@ Ever since I was young I have always been fond of tinkering and taking apart ele
 
 ## Extracurriculars and Related Activities
 - Community First Lego League Team (January 2018 - June 2021)
-- Mississauga Dolphins Cricket Team (June 2023 - Present)
+- Mississauga Dolphins Cricket Team (June 2023 - January 2025)
 - Steam Ahead First Lego League Mentor (June 2023 - January 2024)
 - PCSS Vex Robotics Team (September 2024 - Present)
 - PCSS Transportation Club (September 2024 - Present)
