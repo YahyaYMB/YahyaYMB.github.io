@@ -11,7 +11,7 @@ description: Who is Yahya Bilal?
     <img src="./Assets/myPhoto.JPG" width="280" height="400">
 </p>
 
-uafkjhaskjdfhjkahdfkjh
+Ever since I was young I have always been fond of tinkering and taking apart electronics. Whether it be the most basic of children's toys or more advance pieces of technology such as my dad's phone. Taking apart, fixing and putting things back together has always been my passion. This led me to the idea, what if I could make my own things from scratch. Here I am now, making my own pieces of technology, coding my own projects and sharing my journey with as many people as I can.
 
 ## Education
 - Port Credit Secondary School (September 2022 - Present)
@@ -29,7 +29,10 @@ uafkjhaskjdfhjkahdfkjh
 - Basic First Aid and CPR
 - ICC Level 1 Cricket Coach (pending)
   
-## Goals
-askjfksajhfdjhadfhajkdhd
+## Goals & Future Projects
+- Improve the handheld game console I have already built
+- Make a fully functioning BD-1 droid from Star Wars
+- Get into an Electrical Engineering program
+- Start my own company (Onearth); currently a work in progress
 
 [Previous Page](./)
