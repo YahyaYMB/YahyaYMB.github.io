@@ -20,7 +20,7 @@ I am an aspiring engineering student, currently in high school, pursuing the fie
 ### Handheld Game Console
 
 <p align="center">
-    <img src="./Assets/playing.jpg" width="165" height="124">
+    <img src="./Assets/product.jpg" width="165" height="83">
 </p>
 
 In the TEJ3MR course, I planned out and created a handheld gaming console for my final project in the course. This project demonstrated my ability to design and construct a fully functional electronic device.
