@@ -25,7 +25,7 @@ Ever since I was young I have always been fond of tinkering and taking apart ele
 - PCSS Cricket Club Founder and Executive (October 2024 - Present)
 
 ## Awards and Qualifications
-- Mississauga Dolphins U16-U18 Most Valuable Player
+- Mississauga Dolphins U16-U18 Most Valuable Player (2024 Summer Season)
 - Basic First Aid and CPR
 - ICC Level 1 Cricket Coach (pending)
   
