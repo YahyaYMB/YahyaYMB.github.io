@@ -14,7 +14,7 @@ description: Aspiring Engineering Student
 
 I am an aspiring engineering student, currently in high school, pursuing the field of Electical Engineering.
 
-[More Info](./AboutMe.html)
+[More Info](./aboutMe.html)
 
 ## Projects
 ### Handheld Game Console
