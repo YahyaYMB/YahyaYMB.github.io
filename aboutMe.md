@@ -6,7 +6,7 @@ description: Who is Yahya Bilal?
 1. TOC
 {:toc}
 
-## Backgroud
+## Introduction
 <p align="left">
     <img src="./Assets/myPhoto.JPG" width="280" height="400">
 </p>
