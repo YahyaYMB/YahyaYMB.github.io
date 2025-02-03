@@ -30,7 +30,7 @@ Ever since I was young I have always been fond of tinkering and taking apart ele
 - ICC Level 1 Cricket Coach (pending)
   
 ## Goals & Future Projects
-- Improve the handheld game console I have already built
+- Make a custom handheld game console completely from scratch ([first attempt](./handheld.html))
 - Make a fully functioning BD-1 droid from Star Wars
 - Get into an Electrical Engineering program
 - Start my own company (Onearth); currently a work in progress
